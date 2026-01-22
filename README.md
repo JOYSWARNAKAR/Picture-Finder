@@ -3,7 +3,7 @@
 `search pictures instantly`
 
 # Start backend :
-- cd imagehost\image-host\backend> npm run dev
+- cd backend> npm run dev
 
 # Start frontend :
 - go to fronend-> index.html->start live server
