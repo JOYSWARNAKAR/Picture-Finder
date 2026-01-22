@@ -1,3 +1,3 @@
-# picFinder
+# Picture-Finder
 
 ### search pictures instantly
