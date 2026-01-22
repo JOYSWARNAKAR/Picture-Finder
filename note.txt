@@ -1,0 +1,20 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M dev
+git remote add origin https://github.com/JOYSWARNAKAR/picture-finder.git
+git push -u origin dev
+
+✅ Option 1: Check the existing remote (recommended first)
+git remote -v
+
+❌ Option 3: Remove & re-add (use only if needed)
+
+git remote remove origin
+git remote add origin https://github.com/JOYSWARNAKAR/picture-finder.git
+git push -u origin dev
+
+remote: Resolving deltas: 100% (3/3), done.
+To https://github.com/JOYSWARNAKAR/picture-finder.git
+ * [new branch]      dev -> dev
+branch 'dev' set up to track 'origin/dev'
